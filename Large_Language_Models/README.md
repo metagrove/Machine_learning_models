@@ -1,4 +1,4 @@
-# 🤖 LLM Safety Evaluator: Your AI Babysitter
+# 🤖 LLM Safety Evaluator
 
 **Warning:** This Python file takes its job more seriously than your coffee machine on a Monday morning.
 
